@@ -1,0 +1,5 @@
+public class myfirstjvacode{
+public static void main(string []args){
+system.out.println("hello world");
+}
+}
